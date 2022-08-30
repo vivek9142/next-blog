@@ -1,5 +1,5 @@
-export default PostDetailPage(){
-    return (
-        <h1>post detail page</h1>
-    )
-};
+import PostContent from "../../components/posts/post-detail/post-content";
+
+export default function PostDetailPage() {
+  return <PostContent />;
+}
