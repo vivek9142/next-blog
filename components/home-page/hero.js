@@ -12,7 +12,7 @@ export default function Hero() {
           height={300}
         />
       </div>
-      <h1>Hi, I&apos;m Vivek</h1>
+      <h1>Hi, I&#39;m Vivek</h1>
       <p>
         I blog about web development - especially frontend frameworks like
         ReactJs and NextJs
